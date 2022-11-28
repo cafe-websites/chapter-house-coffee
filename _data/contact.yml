@@ -1,0 +1,14 @@
+location:
+  address: 209 Flinders Ln, Melbourne VIC 3000
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8822355825737!2d144.9676284!3d-37.8162273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642b661412b3d%3A0xcf11f6c5f72f0ee9!2sChapter%20House%20Coffee!5e0!3m2!1sen!2sau!4v1669185644741!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/chapterhousecoffee/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:0413 852 044
